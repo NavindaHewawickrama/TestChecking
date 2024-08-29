@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Personal Projects\\TestProjectDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EEBDB1-5C38-4577-A55D-9E9CDA191189}|TestProjectMSTest\\TestProjectMSTest.csproj|d:\\personal projects\\testprojectdemo\\testprojectmstest\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5EEBDB1-5C38-4577-A55D-9E9CDA191189}|TestProjectMSTest\\TestProjectMSTest.csproj|solutionrelative:testprojectmstest\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2D42FB-275A-4779-9354-02BCBA044E4C}|TestProjectNUnit\\TestProjectNUnit.csproj|d:\\personal projects\\testprojectdemo\\testprojectnunit\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2D42FB-275A-4779-9354-02BCBA044E4C}|TestProjectNUnit\\TestProjectNUnit.csproj|solutionrelative:testprojectnunit\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01EA3BE0-B9FF-4535-8943-B0A723919BB4}|TestProjectXUnit\\TestProjectXUnit.csproj|d:\\personal projects\\testprojectdemo\\testprojectxunit\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01EA3BE0-B9FF-4535-8943-B0A723919BB4}|TestProjectXUnit\\TestProjectXUnit.csproj|solutionrelative:testprojectxunit\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62832C6C-7487-4175-9C18-3DBCA15D902C}|TestLibrary\\TestLibrary.csproj|d:\\personal projects\\testprojectdemo\\testlibrary\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62832C6C-7487-4175-9C18-3DBCA15D902C}|TestLibrary\\TestLibrary.csproj|solutionrelative:testlibrary\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "D:\\Personal Projects\\TestProjectDemo\\TestProjectMSTest\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "TestProjectMSTest\\CalculatorTests.cs",
+              "ToolTip": "D:\\Personal Projects\\TestProjectDemo\\TestProjectMSTest\\CalculatorTests.cs",
+              "RelativeToolTip": "TestProjectMSTest\\CalculatorTests.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T06:38:13.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "D:\\Personal Projects\\TestProjectDemo\\TestProjectNUnit\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "TestProjectNUnit\\CalculatorTests.cs",
+              "ToolTip": "D:\\Personal Projects\\TestProjectDemo\\TestProjectNUnit\\CalculatorTests.cs",
+              "RelativeToolTip": "TestProjectNUnit\\CalculatorTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T06:37:02.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "D:\\Personal Projects\\TestProjectDemo\\TestProjectXUnit\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "TestProjectXUnit\\CalculatorTests.cs",
+              "ToolTip": "D:\\Personal Projects\\TestProjectDemo\\TestProjectXUnit\\CalculatorTests.cs",
+              "RelativeToolTip": "TestProjectXUnit\\CalculatorTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T06:30:05.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\Personal Projects\\TestProjectDemo\\TestLibrary\\Calculator.cs",
+              "RelativeDocumentMoniker": "TestLibrary\\Calculator.cs",
+              "ToolTip": "D:\\Personal Projects\\TestProjectDemo\\TestLibrary\\Calculator.cs",
+              "RelativeToolTip": "TestLibrary\\Calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T06:27:33.069Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
