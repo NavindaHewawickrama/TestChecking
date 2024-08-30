@@ -33,10 +33,10 @@ jobs:
     - name: Run Selenium tests
       run: |
         npm install selenium-webdriver
-        node src\selenium-test.js
+        node selenium-test.js
 
     - name: Run Playwright tests
       run: |
         npm install --save-dev playwright
         npx playwright install
-        node src\playwright-test.js
+        node playwright-test.js
