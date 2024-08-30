@@ -1,0 +1,42 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - testing
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        browser: [chrome, firefox, webkit, Edge]
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: 16
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Start React App
+      run: npm start &
+      env:
+        CI: true
+
+    - name: Run Selenium tests
+      run: |
+        npm install selenium-webdriver
+        node src\selenium-test.js
+
+    - name: Run Playwright tests
+      run: |
+        npm install --save-dev playwright
+        npx playwright install
+        node src\playwright-test.js
